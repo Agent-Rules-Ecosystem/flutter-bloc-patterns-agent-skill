@@ -1,4 +1,2 @@
-# Flutter Agent Rules adapter
-
-Read and follow `.agents/AGENTS.md` before responding or editing.
-Project state lives in `overview/`. Do not duplicate rules here.
+# Claude Adapter - BLoC Skill
+Refer to `.agents/skills/flutter-bloc/AGENTS.md` and `.agents/skills/flutter-bloc/SKILL.md` for Flutter BLoC state management rules.
