@@ -1,2 +1,2 @@
 # OpenAI Adapter - BLoC Skill
-Import `.agents/skills/flutter-bloc/AGENTS.md` for BLoC architecture tasks in Flutter.
+Import `.skill/flutter-bloc-patterns-agent-skill/AGENTS.md` for BLoC architecture tasks in Flutter.

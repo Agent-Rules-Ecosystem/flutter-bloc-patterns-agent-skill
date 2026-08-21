@@ -47,7 +47,7 @@ graph LR
 ## 📦 Instalación como Submódulo
 
 ```bash
-git submodule add https://github.com/xolotl-hub/flutter-bloc-patterns-agent-skill.git .agents/skills/flutter-bloc
+git submodule add https://github.com/xolotl-hub/flutter-bloc-patterns-agent-skill.git .skill/flutter-bloc-patterns-agent-skill
 ```
 
 Para activar en la sesión actual:

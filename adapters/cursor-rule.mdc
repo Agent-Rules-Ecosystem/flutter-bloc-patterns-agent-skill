@@ -2,4 +2,4 @@
 description: Flutter BLoC Skill Rule for Cursor
 globs: ["*_bloc.dart", "*_event.dart", "*_state.dart", "*_cubit.dart"]
 ---
-Enforce unidirectional data flow, sealed immutable states, and clean repository injection defined in `.agents/skills/flutter-bloc/SKILL.md`.
+Enforce unidirectional data flow, sealed immutable states, and clean repository injection defined in `.skill/flutter-bloc-patterns-agent-skill/SKILL.md`.

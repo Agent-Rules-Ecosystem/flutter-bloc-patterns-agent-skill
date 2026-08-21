@@ -9,10 +9,10 @@ description: Flutter BLoC Architecture, Reactive State Management, HydratedBloc,
 
 Al detectar `$bloc` o tareas relacionadas con BLoC, Cubit, `flutter_bloc`, `bloc_test`, `HydratedBloc`, o gestión de estado reactivo en Flutter:
 
-1. `.agents/skills/flutter-bloc/SKILL.md` ← **Directiva principal**
-2. `.agents/skills/flutter-bloc/core/commands.md`
-3. `.agents/skills/flutter-bloc/core/brain.md`
-4. `.agents/skills/flutter-bloc/core/path_map.md`
+1. `.skill/flutter-bloc-patterns-agent-skill/SKILL.md` ← **Directiva principal**
+2. `.skill/flutter-bloc-patterns-agent-skill/core/commands.md`
+3. `.skill/flutter-bloc-patterns-agent-skill/core/brain.md`
+4. `.skill/flutter-bloc-patterns-agent-skill/core/path_map.md`
 
 ## Reglas Canónicas de BLoC en Flutter
 
