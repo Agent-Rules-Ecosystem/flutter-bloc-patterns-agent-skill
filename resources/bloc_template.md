@@ -1,3 +1,6 @@
+# 🧱 BLoC Pattern Template
+
+```dart
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:equatable/equatable.dart';
 
@@ -36,3 +39,4 @@ class SampleBloc extends Bloc<SampleEvent, SampleState> {
     });
   }
 }
+```
