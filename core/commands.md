@@ -1,12 +1,12 @@
-# ⚡ hBcComandos de BLoC Patterns Agent Skill ()
+# ⚡ Comandos de BLoC Patterns Agent Skill (`flutter-bloc-patterns-agent-skill`)
 
 | Comando | Acción | Descripción |
 |---|---|---|
-|  | Bootstrap | Bootstrap de habilidades de BLoC para Flutter. |
-|  | Generación | Genera plantilla completa de BLoC (Event, State, Bloc, Repo). |
-|  | Generación | Genera plantilla de Cubit ligero. |
-|  | Persistencia | Convierte BLoC a HydratedBloc para persistencia local. |
-|  | Auditoría | Auditoría de arquitectura reactiva, memory leaks y rebuilds. |
-|  | Testing | Genera suite de pruebas unitarias con bloc_test. |
-|  | Aprendizaje | Registrar propuesta de mejora específica para  en  |
-|  | Revisión | Clasificar e inspeccionar propuestas de aprendizaje acumuladas en  |
+| `$bloc` | Bootstrap | Bootstrap de habilidades de BLoC para Flutter. |
+| `$bloc:create [nombre]` | Generación | Genera plantilla completa de BLoC (Event, State, Bloc, Repo). |
+| `$bloc:cubit [nombre]` | Generación | Genera plantilla de Cubit ligero. |
+| `$bloc:hydrated [nombre]` | Persistencia | Convierte BLoC a HydratedBloc para persistencia local. |
+| `$bloc:audit` | Auditoría | Auditoría de arquitectura reactiva, memory leaks y rebuilds. |
+| `$bloc:test [nombre]` | Testing | Genera suite de pruebas unitarias con bloc_test. |
+| `$learnskill flutter-bloc-patterns-agent-skill [propuesta]` | Aprendizaje | Registrar propuesta de mejora específica para `flutter-bloc-patterns-agent-skill` en `overview/learning.md` |
+| `$revlearnskill` | Revisión | Clasificar e inspeccionar propuestas de aprendizaje acumuladas en `overview/learning.md` |
