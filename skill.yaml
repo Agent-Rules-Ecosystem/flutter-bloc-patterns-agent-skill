@@ -1,7 +1,0 @@
-name: flutter-bloc-patterns-agent-skill
-version: 1.0.0
-author: Agent-Rules-Ecosystem
-description: "Flutter BLoC architecture pattern guidelines and generator templates."
-compatible_rules:
-  - flutter-agent-rules
-dependencies: []
