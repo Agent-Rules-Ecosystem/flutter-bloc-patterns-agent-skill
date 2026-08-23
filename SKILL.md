@@ -58,3 +58,30 @@ final class FeatureFailure extends FeatureState {
   List<Object?> get props => [errorMessage];
 }
 ```
+
+
+---
+
+## 📝 Persistencia y Salida Activa (`overview/work/skill/`)
+
+Al ejecutar esta skill (mediante `$bloc` o `$bloc:audit`), es **obligatorio crear o actualizar su reporte activo** dentro del proyecto cliente en la ruta:
+
+`overview/work/skill/flutter-bloc-patterns.md`
+
+### Estructura Requerida del Reporte:
+
+```markdown
+# 📋 Registro Activo de Tareas — Flutter BLoC Patterns Agent Skill
+
+> **Generado por**: `flutter-bloc-patterns-agent-skill` (`$bloc:audit`)  
+> **Última actualización**: YYYY-MM-DD  
+
+## 🎯 Tareas Pendientes Accionables
+
+| ID | Tipo | Estado | Resumen | Evidencia/Ruta | Acción Requerida |
+|---|---|---|---|---|---|
+| BLOC-01 | Fix / Refactor | Pendiente | <Resumen breve> | `<ruta:línea>` | <Remediación recomendada> |
+
+## 📝 Observaciones y Detalles de Revisión
+- Detalle técnico, evidencia o contexto extendido proporcionado por la revisión de la skill.
+```
