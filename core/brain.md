@@ -12,4 +12,4 @@
    - Se requiere debounce / throttle en eventos de entrada (ej. barra de búsqueda).
 
 3. **Usar HydratedBloc si**:
-   - El estado debe persistir entre cierres de la app (ej. preferencia de usuario, token de sesión, carrito offline).
+   - El estado debe persistir entre cierres de la app (ej. preferencia de usuario, preferencias no sensibles de UI (tokens de sesión SIEMPRE en `flutter_secure_storage`, nunca en `HydratedBloc`), carrito offline).
